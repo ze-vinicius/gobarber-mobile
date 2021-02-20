@@ -63,7 +63,7 @@ const SignUp: React.FC = () => {
       navigation.navigate('SignIn');
 
       Alert.alert(
-        'Cadastro realiado com sucesso!',
+        'Cadastro realizado com sucesso!',
         'Você já pode fazer login na aplicação',
       );
 
